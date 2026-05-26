@@ -5,7 +5,7 @@ To use this code, download the Python script `process-era5-netcdfs.ipynb` and th
 
 In this code, you'll learn how to make plots like this: <br>
 
-<img src="examples/vcomp_map.png" width = "400">
+<img src="examples/vcomp-map.png" width = "400">
 
 <img src="examples/windspeed-map.png" width = "400">
 
