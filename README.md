@@ -3,7 +3,8 @@ Learn how to work with multidimensional climate data (netcdfs) by processing and
 
 In this code, you'll learn how to make plots like this: <br>
 
-<img src="examples/windspeed-lat-lon-map.png" width = "400">
+<img src="examples/vcomp_map.png" width = "400">
 
-<img src="examples/windspeed-timeseries-twosites.png" width = "400">
+<img src="examples/windspeed-map.png" width = "400">
 
+<img src="examples/cooke-skan-wind-timeseries.png" width = "400">
